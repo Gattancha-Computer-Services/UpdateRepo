@@ -1,4 +1,4 @@
 {
-	"url" : "http://yum.gattancha.co.uk",
-	"repo-prefix" : "GCS"
+	"url" : "http://yumrepo.yourdomain.local",
+	"repo-prefix" : "MyRepo"
 }
